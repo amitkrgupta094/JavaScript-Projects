@@ -1,3 +1,3 @@
 # JavaScript-Projects
 
-Basic Javascript Projects build during learning Javascript.
+Javascript Projects build during learning Javascript.
